@@ -24,7 +24,7 @@ Imports:
     parallel,
     rlang
 LinkingTo:
-    cpp14
+    cpp11
 Suggests:
     callr,
     cpp14,
