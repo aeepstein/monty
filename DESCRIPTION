@@ -24,10 +24,10 @@ Imports:
     parallel,
     rlang
 LinkingTo:
-    cpp11
+    cpp14
 Suggests:
     callr,
-    cpp11,
+    cpp14,
     coda,
     decor,
     knitr,
